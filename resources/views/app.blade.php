@@ -17,6 +17,10 @@
         @inertiaHead
     </head>
     <body class="font-sans antialiased">
+        <header id="header">
+        </header>
         @inertia
+        <footer id="footer">
+        </footer>
     </body>
 </html>
